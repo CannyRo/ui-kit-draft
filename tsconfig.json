@@ -11,6 +11,11 @@
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
     "isolatedModules": true,
+    "paths": {
+      "ngx-wcd-ui": [
+        "./dist/ngx-wcd-ui"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
